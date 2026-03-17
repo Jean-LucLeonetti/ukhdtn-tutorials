@@ -17,3 +17,15 @@
 ## With Try it yourself answers
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_1_2_Bonus.ipynb)
+
+# Tutorial 2.1: 2D Panel Under Various Boundary Conditions
+
+## Without Try it yourself answers
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_2_1.ipynb)
+
+# Tutorial 2.2: Transient 2D Panel Under Various Thermal Boundary Conditions
+
+## Without Try it yourself answers
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_2_2.ipynb)
