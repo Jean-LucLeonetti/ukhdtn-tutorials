@@ -29,3 +29,15 @@
 ## Without Try it yourself answers
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_2_2.ipynb)
+
+# Tutorial 3.1: Dynamic Fully Coupled Thermoelasticity
+
+## Without Try it yourself answers
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_3_1.ipynb)
+
+# Tutorial 3.2: Finite Strain Thermal Buckling
+
+## Without Try it yourself answers
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_3_2.ipynb)
