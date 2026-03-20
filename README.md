@@ -41,3 +41,7 @@
 # Tutorial 4.2: Thickness Optimisation with the Adjoint Method
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_4_2.ipynb)
+
+# Tutorial 5: Thermoelastic Topology Optimisation
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jean-LucLeonetti/ukhdtn-tutorials/blob/main/Tutorial_5.ipynb)
